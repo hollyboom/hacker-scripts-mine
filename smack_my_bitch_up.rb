@@ -21,6 +21,7 @@ reason = [
   'Working hard',
   'Gotta ship this feature',
   'Someone fucked the system again'
+  'The system is down'
 ].sample
 
 # Send a text message
